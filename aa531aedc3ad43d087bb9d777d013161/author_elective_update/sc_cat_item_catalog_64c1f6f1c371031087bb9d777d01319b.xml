@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="gihub">3dc3da21c3ed43d087bb9d777d01318a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 12:28:10</sys_created_on>
+        <sys_id>64c1f6f1c371031087bb9d777d01319b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.gihub</sys_name>
+        <sys_package display_value="Github Repo" source="x_2002792_github_0">aa531aedc3ad43d087bb9d777d013161</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Github Repo">aa531aedc3ad43d087bb9d777d013161</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_64c1f6f1c371031087bb9d777d01319b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 12:28:10</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Github Repo">aa531aedc3ad43d087bb9d777d013161</application>
+        <file_path/>
+        <instance_id>2a32761893156e18401cddd548373c03</instance_id>
+        <instance_name>dev339559</instance_name>
+        <name>sc_cat_item_catalog_64c1f6f1c371031087bb9d777d01319b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="gihub">3dc3da21c3ed43d087bb9d777d01318a</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-07-01 12:28:10</sys_created_on><sys_id>64c1f6f1c371031087bb9d777d01319b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.gihub</sys_name><sys_package display_value="Github Repo" source="x_2002792_github_0">aa531aedc3ad43d087bb9d777d013161</sys_package><sys_policy/><sys_scope display_value="Github Repo">aa531aedc3ad43d087bb9d777d013161</sys_scope><sys_update_name>sc_cat_item_catalog_64c1f6f1c371031087bb9d777d01319b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-07-01 12:28:10</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1654623992</payload_hash>
+        <record_name>Service Catalog.gihub</record_name>
+        <reverted_from/>
+        <source>8d091621c3ed43d087bb9d777d0131d2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 12:28:10</sys_created_on>
+        <sys_id>2cc1f6f1c371031087bb9d777d0131e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19f1da6ade40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 12:28:10</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a4c1f6f10e71031032f6d1ac1c703fe0</update_guid>
+        <update_guid_history>a4c1f6f10e71031032f6d1ac1c703fe0:1654623992</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.gihub">37c13a35c371031087bb9d777d013129</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 12:28:23</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>25a1664d6a914dddb26fbac7c4fefc79</sys_id>
+        <sys_metadata>64c1f6f1c371031087bb9d777d01319b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.gihub</sys_name>
+        <sys_package display_value="Github Repo" source="x_2002792_github_0">aa531aedc3ad43d087bb9d777d013161</sys_package>
+        <sys_parent display_value="gihub">3dc3da21c3ed43d087bb9d777d01318a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Github Repo">aa531aedc3ad43d087bb9d777d013161</sys_scope>
+        <sys_scope_delete display_value="">01cdd0ae1b7740b285151a07b36f4ea4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_64c1f6f1c371031087bb9d777d01319b</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_64c1f6f1c371031087bb9d777d01319b">2cc1f6f1c371031087bb9d777d0131e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 12:28:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
